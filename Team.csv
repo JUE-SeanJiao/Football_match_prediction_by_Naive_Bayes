@@ -1,0 +1,300 @@
+index,id,team_api_id,team_long_name
+0,1,9987,KRC Genk
+1,2,9993,Beerschot AC
+2,3,10000,SV Zulte-Waregem
+3,4,9994,Sporting Lokeren
+4,5,9984,KSV Cercle Brugge
+5,6,8635,RSC Anderlecht
+6,7,9991,KAA Gent
+7,8,9998,RAEC Mons
+8,9,7947,FCV Dender EH
+9,10,9985,Standard de Liège
+10,11,8203,KV Mechelen
+11,12,8342,Club Brugge KV
+12,13,9999,KSV Roeselare
+13,14,8571,KV Kortrijk
+14,15,4049,Tubize
+15,16,9996,Royal Excel Mouscron
+16,17,10001,KVC Westerlo
+17,18,9986,Sporting Charleroi
+18,614,9997,Sint-Truidense VV
+19,1034,9989,Lierse SK
+20,1042,6351,KAS Eupen
+21,1513,1773,Oud-Heverlee Leuven
+22,2004,8475,Waasland-Beveren
+23,2476,8573,KV Oostende
+24,2510,274581,Royal Excel Mouscron
+25,3457,10260,Manchester United
+26,3458,10261,Newcastle United
+27,3459,9825,Arsenal
+28,3460,8659,West Bromwich Albion
+29,3461,8472,Sunderland
+30,3462,8650,Liverpool
+31,3463,8654,West Ham United
+32,3464,8528,Wigan Athletic
+33,3465,10252,Aston Villa
+34,3466,8456,Manchester City
+35,3467,8668,Everton
+36,3468,8655,Blackburn Rovers
+37,3469,8549,Middlesbrough
+38,3470,8586,Tottenham Hotspur
+39,3471,8559,Bolton Wanderers
+40,3472,10194,Stoke City
+41,3473,8667,Hull City
+42,3474,9879,Fulham
+43,3475,8455,Chelsea
+44,3476,8462,Portsmouth
+45,4218,8658,Birmingham City
+46,4225,8602,Wolverhampton Wanderers
+47,4234,8191,Burnley
+48,4996,8483,Blackpool
+49,5744,10003,Swansea City
+50,5747,10172,Queens Park Rangers
+51,5756,9850,Norwich City
+52,6504,8466,Southampton
+53,6509,9798,Reading
+54,7261,9826,Crystal Palace
+55,7276,8344,Cardiff City
+56,8021,8197,Leicester City
+57,8779,8678,Bournemouth
+58,8784,9817,Watford
+59,9537,8583,AJ Auxerre
+60,9538,9830,FC Nantes
+61,9539,9827,Girondins de Bordeaux
+62,9540,7819,SM Caen
+63,9541,9746,Le Havre AC
+64,9542,9831,OGC Nice
+65,9543,8682,Le Mans FC
+66,9544,8689,FC Lorient
+67,9545,9748,Olympique Lyonnais
+68,9546,9941,Toulouse FC
+69,9547,9829,AS Monaco
+70,9548,9847,Paris Saint-Germain
+71,9549,8481,AS Nancy-Lorraine
+72,9550,8639,LOSC Lille
+73,9551,9851,Stade Rennais FC
+74,9552,8592,Olympique de Marseille
+75,9553,9874,FC Sochaux-Montbéliard
+76,9554,9855,Grenoble Foot 38
+77,9555,9873,Valenciennes FC
+78,9556,9853,AS Saint-Étienne
+79,10300,8588,RC Lens
+80,10309,10249,Montpellier Hérault SC
+81,10312,4170,US Boulogne Cote D'Opale
+82,11074,108893,AC Arles-Avignon
+83,11076,8521,Stade Brestois 29
+84,11817,8576,AC Ajaccio
+85,11822,4087,Évian Thonon Gaillard FC
+86,11825,9836,Dijon FCO
+87,12587,9837,Stade de Reims
+88,12594,7794,SC Bastia
+89,12595,10242,ES Troyes AC
+90,13343,9747,En Avant de Guingamp
+91,14106,8550,FC Metz
+92,14868,8121,Angers SCO
+93,14876,6391,GFC Ajaccio
+94,15617,9823,FC Bayern Munich
+95,15618,9790,Hamburger SV
+96,15619,8178,Bayer 04 Leverkusen
+97,15620,9789,Borussia Dortmund
+98,15621,10189,FC Schalke 04
+99,15622,9904,Hannover 96
+100,15623,8721,VfL Wolfsburg
+101,15624,8722,1. FC Köln
+102,15625,9810,Eintracht Frankfurt
+103,15626,8177,Hertha BSC Berlin
+104,15627,9912,DSC Arminia Bielefeld
+105,15628,8697,SV Werder Bremen
+106,15629,8398,FC Energie Cottbus
+107,15630,8226,TSG 1899 Hoffenheim
+108,15631,9788,Borussia Mönchengladbach
+109,15632,10269,VfB Stuttgart
+110,15633,8295,Karlsruher SC
+111,15634,9911,VfL Bochum
+112,16237,8358,SC Freiburg
+113,16239,8165,1. FC Nürnberg
+114,16243,9905,1. FSV Mainz 05
+115,16848,8350,1. FC Kaiserslautern
+116,16850,8152,FC St. Pauli
+117,17465,8406,FC Augsburg
+118,18074,8194,Fortuna Düsseldorf
+119,18079,8357,SpVgg Greuther Fürth
+120,18691,9776,Eintracht Braunschweig
+121,19305,8460,SC Paderborn 07
+122,19916,8234,FC Ingolstadt 04
+123,19917,8262,SV Darmstadt 98
+124,20513,8524,Atalanta
+125,20514,8551,Siena
+126,20515,8529,Cagliari
+127,20516,8543,Lazio
+128,20517,8530,Catania
+129,20518,10233,Genoa
+130,20519,8533,Chievo Verona
+131,20520,8690,Reggio Calabria
+132,20521,8535,Fiorentina
+133,20522,9885,Juventus
+134,20523,8564,Milan
+135,20524,9857,Bologna
+136,20525,8686,Roma
+137,20526,9875,Napoli
+138,20527,9882,Sampdoria
+139,20528,8636,Inter
+140,20529,9804,Torino
+141,20530,9888,Lecce
+142,20531,8600,Udinese
+143,20532,8540,Palermo
+144,21280,9976,Bari
+145,21285,8537,Livorno
+146,21292,10167,Parma
+147,22042,9880,Cesena
+148,22044,9858,Brescia
+149,22805,6269,Novara
+150,23523,9878,Pescara
+151,24273,9876,Hellas Verona
+152,24288,7943,Sassuolo
+153,25048,8534,Empoli
+154,25791,9891,Frosinone
+155,25804,208931,Carpi
+156,26547,8277,Vitesse
+157,26548,8674,FC Groningen
+158,26549,9803,Roda JC Kerkrade
+159,26550,8611,FC Twente
+160,26551,8525,Willem II
+161,26552,8593,Ajax
+162,26553,8464,N.E.C.
+163,26554,8526,De Graafschap
+164,26555,9908,FC Utrecht
+165,26556,8640,PSV
+166,26557,9791,Heracles Almelo
+167,26558,10235,Feyenoord
+168,26559,8614,Sparta Rotterdam
+169,26560,10217,ADO Den Haag
+170,26561,6601,FC Volendam
+171,26562,10228,SC Heerenveen
+172,26563,10229,AZ
+173,26564,9761,NAC Breda
+174,27161,10219,RKC Waalwijk
+175,27168,9839,VVV-Venlo
+176,27780,10218,Excelsior
+177,29000,6413,PEC Zwolle
+178,29617,7788,SC Cambuur
+179,29624,6433,Go Ahead Eagles
+180,30222,6631,FC Dordrecht
+181,31443,10265,Wisła Kraków
+182,31444,8031,Polonia Bytom
+183,31445,8020,Polonia Bytom
+184,31446,1601,Ruch Chorzów
+185,31447,8673,Legia Warszawa
+186,31448,2183,P. Warszawa
+187,31449,8025,Śląsk Wrocław
+188,31450,8030,Lechia Gdańsk
+189,31451,8244,Widzew Łódź
+190,31452,8242,Odra Wodzisław
+191,31453,2182,Lech Poznań
+192,31454,8569,GKS Bełchatów
+193,31455,8322,Arka Gdynia
+194,31456,1957,Jagiellonia Białystok
+195,31457,8028,Piast Gliwice
+196,31458,2186,Cracovia
+197,31925,8245,Korona Kielce
+198,31928,8021,Zagłębie Lubin
+199,32409,8024,Widzew Łódź
+200,32891,8033,Podbeskidzie Bielsko-Biała
+201,33377,8023,Pogoń Szczecin
+202,33855,8027,Zawisza Bydgoszcz
+203,34337,8019,Górnik Łęczna
+204,34816,177361,Termalica Bruk-Bet Nieciecza
+205,35283,9773,FC Porto
+206,35284,9807,CF Os Belenenses
+207,35285,9768,Sporting CP
+208,35286,7992,Trofense
+209,35287,7844,Vitória Guimarães
+210,35288,10238,Vitória Setúbal
+211,35289,6403,FC Paços de Ferreira
+212,35290,10264,SC Braga
+213,35291,10213,Amadora
+214,35292,10215,Académica de Coimbra
+215,35293,7841,Rio Ave FC
+216,35294,9772,SL Benfica
+217,35295,6421,Leixões SC
+218,35296,10214,CD Nacional
+219,35297,9809,Naval 1° de Maio
+220,35298,10212,CS Marítimo
+221,35769,9771,"União de Leiria, SAD"
+222,35774,2033,S.C. Olhanense
+223,36248,9765,Portimonense
+224,36253,10211,SC Beira Mar
+225,36723,4064,Feirense
+226,36735,9764,Gil Vicente FC
+227,37210,8348,Moreirense FC
+228,37214,7842,Estoril Praia
+229,37696,158085,FC Arouca
+230,38173,6547,FC Penafiel
+231,38176,8613,Boavista FC
+232,38789,6367,Uniao da Madeira
+233,38791,188163,Tondela
+234,39387,8596,Falkirk
+235,39388,8548,Rangers
+236,39389,9860,Heart of Midlothian
+237,39390,9927,Motherwell
+238,39391,8597,Kilmarnock
+239,39392,10251,Hibernian
+240,39393,8485,Aberdeen
+241,39394,8066,Inverness Caledonian Thistle
+242,39395,9925,Celtic
+243,39396,9800,St. Mirren
+244,39397,8429,Hamilton Academical FC
+245,39398,9938,Dundee United
+246,39853,8467,St. Johnstone FC
+247,40757,8457,Dunfermline Athletic
+248,41216,8284,Dundee FC
+249,41217,8649,Ross County FC
+250,41673,8426,Partick Thistle F.C.
+251,43035,10267,Valencia CF
+252,43036,8661,RCD Mallorca
+253,43037,8371,CA Osasuna
+254,43038,10205,Villarreal CF
+255,43039,9783,RC Deportivo de La Coruña
+256,43040,8633,Real Madrid CF
+257,43041,8388,CD Numancia
+258,43042,8634,FC Barcelona
+259,43043,8696,Racing Santander
+260,43044,8302,Sevilla FC
+261,43045,9869,Real Sporting de Gijón
+262,43046,8305,Getafe CF
+263,43047,8603,Real Betis Balompié
+264,43048,8479,RC Recreativo
+265,43049,8558,RCD Espanyol
+266,43050,10281,Real Valladolid
+267,43051,8315,Athletic Club de Bilbao
+268,43052,9865,UD Almería
+269,43053,9906,Atlético Madrid
+270,43054,9864,Málaga CF
+271,43800,9868,Xerez Club Deportivo
+272,43803,8394,Real Zaragoza
+273,43804,9867,CD Tenerife
+274,44557,10278,Hércules Club de Fútbol
+275,44565,8581,Levante UD
+276,44569,8560,Real Sociedad
+277,45330,7878,Granada CF
+278,45333,8370,Rayo Vallecano
+279,46087,9910,RC Celta de Vigo
+280,46848,10268,Elche CF
+281,47605,8372,SD Eibar
+282,47612,7869,Córdoba CF
+283,48358,8306,UD Las Palmas
+284,49115,9956,Grasshopper Club Zürich
+285,49116,6493,AC Bellinzona
+286,49117,10192,BSC Young Boys
+287,49118,9931,FC Basel
+288,49119,9930,FC Aarau
+289,49120,10179,FC Sion
+290,49121,10199,FC Luzern
+291,49122,9824,FC Vaduz
+292,49123,7955,Neuchâtel Xamax
+293,49124,10243,FC Zürich
+294,49479,10190,FC St. Gallen
+295,49837,10191,FC Thun
+296,50201,9777,Servette FC
+297,50204,7730,FC Lausanne-Sports
+298,51606,7896,Lugano

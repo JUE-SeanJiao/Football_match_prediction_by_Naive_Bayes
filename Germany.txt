@@ -1,0 +1,162 @@
+2008,34
+Wolfsburg-8721,69
+Bayern Munich-9823,67
+VfB Stuttgart-10269,64
+Hertha Berlin-8177,63
+Hamburger SV-9790,61
+Borussia Dortmund-9789,59
+Hoffenheim-8226,55
+Schalke 04-10189,50
+Bayer Leverkusen-8178,49
+Werder Bremen-8697,45
+Hannover 96-9904,40
+FC Cologne-8722,39
+Eintracht Frankfurt-9810,33
+Bochum-9911,32
+Borussia M.Gladbach-9788,31
+Energie Cottbus-8398,30
+Karlsruher SC-8295,29
+Arminia Bielefeld-9912,28
+
+2009,34
+Bayern Munich-9823,70
+Schalke 04-10189,65
+Werder Bremen-8697,61
+Bayer Leverkusen-8178,59
+Borussia Dortmund-9789,57
+VfB Stuttgart-10269,55
+Hamburger SV-9790,52
+Wolfsburg-8721,50
+Mainz 05-9905,47
+Eintracht Frankfurt-9810,46
+Hoffenheim-8226,42
+Borussia M.Gladbach-9788,39
+FC Cologne-8722,38
+Freiburg-8358,35
+Hannover 96-9904,33
+Nuernberg-8165,31
+Bochum-9911,28
+Hertha Berlin-8177,24
+
+2010,34
+Borussia Dortmund-9789,75
+Bayer Leverkusen-8178,68
+Bayern Munich-9823,65
+Hannover 96-9904,60
+Mainz 05-9905,58
+Nuernberg-8165,47
+Kaiserslautern-8350,46
+Hamburger SV-9790,45
+Freiburg-8358,44
+FC Cologne-8722,44
+Hoffenheim-8226,43
+VfB Stuttgart-10269,42
+Werder Bremen-8697,41
+Schalke 04-10189,40
+Wolfsburg-8721,38
+Borussia M.Gladbach-9788,36
+Eintracht Frankfurt-9810,34
+St. Pauli-8152,29
+
+2011,34
+Borussia Dortmund-9789,81
+Bayern Munich-9823,73
+Schalke 04-10189,64
+Borussia M.Gladbach-9788,60
+Bayer Leverkusen-8178,54
+VfB Stuttgart-10269,53
+Hannover 96-9904,48
+Wolfsburg-8721,44
+Werder Bremen-8697,42
+Nuernberg-8165,42
+Hoffenheim-8226,41
+Freiburg-8358,40
+Mainz 05-9905,39
+Augsburg-8406,38
+Hamburger SV-9790,36
+Hertha Berlin-8177,31
+FC Cologne-8722,30
+Kaiserslautern-8350,23
+
+2012,34
+Bayern Munich-9823,91
+Borussia Dortmund-9789,66
+Bayer Leverkusen-8178,65
+Schalke 04-10189,55
+Freiburg-8358,51
+Eintracht Frankfurt-9810,51
+Hamburger SV-9790,48
+Borussia M.Gladbach-9788,47
+Hannover 96-9904,45
+Nuernberg-8165,44
+Wolfsburg-8721,43
+VfB Stuttgart-10269,43
+Mainz 05-9905,42
+Werder Bremen-8697,34
+Augsburg-8406,33
+Hoffenheim-8226,31
+Fortuna Duesseldorf-8194,30
+Greuther Fuerth-8357,21
+
+2013,34
+Bayern Munich-9823,90
+Borussia Dortmund-9789,71
+Schalke 04-10189,64
+Bayer Leverkusen-8178,61
+Wolfsburg-8721,60
+Borussia M.Gladbach-9788,55
+Mainz 05-9905,53
+Augsburg-8406,52
+Hoffenheim-8226,44
+Hannover 96-9904,42
+Hertha Berlin-8177,41
+Werder Bremen-8697,39
+Eintracht Frankfurt-9810,36
+Freiburg-8358,36
+VfB Stuttgart-10269,32
+Hamburger SV-9790,27
+Nuernberg-8165,26
+Eintracht Braunschweig-9776,25
+
+2014,34
+Bayern Munich-9823,79
+Wolfsburg-8721,69
+Borussia M.Gladbach-9788,66
+Bayer Leverkusen-8178,61
+Augsburg-8406,49
+Schalke 04-10189,48
+Borussia Dortmund-9789,46
+Hoffenheim-8226,44
+Eintracht Frankfurt-9810,43
+Werder Bremen-8697,43
+Mainz 05-9905,40
+FC Cologne-8722,40
+Hannover 96-9904,37
+VfB Stuttgart-10269,36
+Hertha Berlin-8177,35
+Hamburger SV-9790,35
+Freiburg-8358,34
+Paderborn-8460,31
+
+2015,34
+Bayern Munich-9823,88
+Borussia Dortmund-9789,78
+Bayer Leverkusen-8178,60
+Borussia M.Gladbach-9788,55
+Schalke 04-10189,52
+Mainz 05-9905,50
+Hertha Berlin-8177,50
+Wolfsburg-8721,45
+FC Cologne-8722,43
+Hamburger SV-9790,41
+Ingolstadt-8234,40
+Augsburg-8406,38
+Werder Bremen-8697,38
+Darmstadt-8262,38
+Hoffenheim-8226,37
+Eintracht Frankfurt-9810,36
+VfB Stuttgart-10269,33
+Hannover 96-9904,25
+
+
+

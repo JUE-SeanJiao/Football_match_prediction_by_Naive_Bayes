@@ -1,0 +1,175 @@
+2008,38
+Barcelona-8634,87
+Real Madrid-8633,78
+Sevilla-8302,70
+Atletico Madrid-9906,67
+Villarreal-10205,65
+Valencia-10267,62
+Deportivo La Coruna-9783,58
+Malaga-9864,55
+Mallorca-8661,51
+Espanyol-8558,47
+Almeria-9865,46	
+Racing Santander-8696,46
+Athletic Club-8315,44
+Sporting Gijon-9869,43
+Valladolid-10281,43
+Osasuna-8371,43
+Getafe-8305,42
+Real Betis-8603,42
+Numancia-8388,35
+Recreativo Huelva-8479,33
+
+2009,38
+Barcelona-8634,99
+Real Madrid-8633,96
+Valencia-10267,71
+Sevilla-8302,63
+Mallorca-8661,62	
+Getafe-8305,58
+Villarreal-10205,56	
+Athletic Club-8315,54	
+Atletico Madrid-9906,47
+Deportivo La Coruna-9783,47	
+Espanyol-8558,44
+Osasuna-8371,43
+Almeria-9865,42
+Zaragoza-8394,41	
+Sporting Gijon-9869,40	
+Racing Santander-8696,39	
+Malaga-9864,37
+Tenerife-9867,36	
+Valladolid-10281,36	
+Xerez-9868,34
+
+2010,38
+Barcelona-8634,96
+Real Madrid-8633,92
+Valencia-10267,71
+Villarreal-10205,62	
+Sevilla-8302,58
+Athletic Club-8315,58	
+Atletico Madrid-9906,58
+Espanyol-8558,49
+Osasuna-8371,47
+Sporting Gijon-9869,47
+Malaga-9864,46
+Racing Santander-8696,46
+Zaragoza-8394,45
+Real Sociedad-8560,45	
+Levante-8581,45
+Getafe-8305,44
+Mallorca-8661,44	
+Deportivo La Coruna-9783,43
+Hercules-10278,35
+Almeria-9865,30
+
+2011,38
+Real Madrid-8633,100
+Barcelona-8634,91
+Valencia-10267,61
+Malaga-9864,58
+Atletico Madrid-9906,56
+Levante-8581,55
+Osasuna-8371,54
+Mallorca-8661,52	
+Sevilla-8302,50
+Athletic Club-8315,49
+Getafe-8305,47
+Real Sociedad-8560,47	
+Real Betis-8603,47
+Espanyol-8558,46
+Rayo Vallecano-8370,43	
+Zaragoza-8394,43
+Granada-7878,42
+Villarreal-10205,41	
+Sporting Gijon-9869,37	
+Racing Santander-8696,27
+
+2012,38
+Barcelona-8634,100
+Real Madrid-8633,85
+Atletico Madrid-9906,76	
+Real Sociedad-8560,66
+Valencia-10267,65
+Malaga-9864,57
+Real Betis-8603,56	
+Rayo Vallecano-8370,53	
+Sevilla-8302,50
+Getafe-8305,47
+Levante-8581,46
+Athletic Club-8315,45	
+Espanyol-8558,44
+Valladolid-10281,43	
+Granada-7878,42
+Osasuna-8371,39
+Celta Vigo-9910,37	
+Mallorca-8661,36
+Deportivo La Coruna-9783,35	
+Zaragoza-8394,34
+
+2013,38
+Atletico Madrid-9906,90
+Barcelona-8634,87
+Real Madrid-8633,87
+Athletic Club-8315,70	
+Sevilla-8302,63
+Villarreal-10205,59	
+Real Sociedad-8560,59	
+Valencia-10267,49
+Celta Vigo-9910,49	
+Levante-8581,48
+Malaga-9864,45
+Rayo Vallecano-8370,43	
+Getafe-8305,42
+Espanyol-8558,42	
+Granada-7878,41
+Elche-10268,40
+Almeria-9865,40
+Osasuna-8371,39
+Valladolid-10281,36	
+Real Betis-8603,25
+
+2014,38
+Barcelona-8634,94	
+Real Madrid-8633,92
+Atletico Madrid-9906,78	
+Valencia-10267,77
+Sevilla-8302,74
+Villarreal-10205,60	
+Athletic Club-8315,55	
+Celta Vigo-9910,51
+Malaga-9864,51
+Espanyol-8558,49	
+Rayo Vallecano-8370,49	
+Real Sociedad-8560,46
+Elche-10268,41
+Levante-8581,37
+Getafe-8305,37
+Deportivo La Coruna-9783,35	
+Granada-7878,35
+Eibar-8372,35
+Almeria-9865,32
+Cordoba-7869,20
+
+2015,38
+Barcelona-8634,91	
+Real Madrid-8633,90
+Atletico Madrid-9906,88	
+Villarreal-10205,64
+Athletic Club-8315,62	
+Celta Vigo-9910,60
+Sevilla-8302,52
+Malaga-9864,48
+Real Sociedad-8560,48	
+Real Betis-8603,45
+Las Palmas-8306,44
+Valencia-10267,44
+Espanyol-8558,43
+Eibar-8372,44
+Deportivo La Coruna-9783,42
+Granada-7878,39
+Sporting Gijon-9869,39	
+Rayo Vallecano-8370,38
+Getafe-8305,36
+Levante-8581,32

@@ -1,0 +1,69 @@
+2011, 08-09,09-10,10-11,11-12
+Genk,Belgium,50:34,34:30,64:30,46:30
+Olympiacos,Greece,71:30,64:30,73:32,73:32
+BATE Borisov,Belarus,67:30,62:26,72:33,66:33
+Viktoria Plzen,Czech Republic,43:30,48:30,69:30,63:30
+Zenit St. Petersburg,Russia,48:30,54:30,68:30,61:30
+APOEL Nicosia,Cyprus,69:26,62:26,62:26,56:26
+Shakhtar Donetsk,Ukraine,64:30,77:30,72:30,79:30
+FC Basel 1893,Switzerland,72:36,80:36,73:36,74:36
+Otelul Galati,Romania,40:34,50:34,70:34,52:34
+Dinamo Zagreb,Croatia,74:33,62:30,72:30,75:30
+Trabzonspor,Turkey,65:34,57:34,82:34,56:34
+CSKA Moscow,Russia,56:30,52:30,62:30,59:30
+
+2012, 09-10,10-11,11-12,12-13
+Dinamo Zagreb,Croatia,62:30,72:30,75:30,77:33
+Dynamo Kyiv,Ukraine,71:30,65:30,75:30,62:30
+Olympiacos,Greece,64:30,73:32,73:32,77:32
+Zenit St. Petersburg,Russia,54:30,68:30,61:30,62:30
+Anderlecht,Belgium,69:30,65:30,67:30,67:30
+Shakhtar Donetsk,Ukraine,77:30,72:30,79:30,79:30
+FC Nordsjaelland,Denmark,43:33,39:33,68:33,60:33
+BATE Borisov,Belarus,62:26,72:33,66:33,68:30
+Celtic,Scotland,81:38,92:38,93:38,79:38
+Spartak Moscow,Russia,55:30,49:30,53:30,51:30
+CFR Cluj,Romania,69:34,45:34,71:34,49:34
+Galatasaray,Turkey,64:34,46:34,77:34,71:34
+
+2013, 10-11,11-12,12-13,13-14
+Shakhtar Donetsk,Ukraine,72:30,79:30,79:30,65:28
+FC Copenhagen,Denmark,81:33,66:33,65:33,56:33
+Galatasaray,Turkey,46:34,77:34,71:34,65:34
+Olympiacos,Greece,73:32,73:32,77:32,86:34
+Anderlecht,Belgium,65:30,67:30,67:30,57:30
+CSKA Moscow,Russia,62:30,59:30,64:30,64:30
+Viktoria Plzen,Czech Republic,69:30,63:30,65:30,66:30
+FC FCSB,Romania,57:34,66:34,79:34,77:34
+FC Basel 1893,Switzerland,73:36,74:36,72:36,72:36
+Austria Wien,Austria,61:36,54:36,82:36,53:36
+Zenit St. Petersburg,Russia,68:30,61:30,62:30,63:30
+Celtic,Scotland,92:38,93:38,79:38,99:38
+
+2014, 11-12,12-13,13-14,14-15
+Malmoe FF,Sweden,54:30,56:30,63:30,62:30
+Olympiacos,Greece,73:32,77:32,86:34,78:34
+Ludogorets Razgrad,Bulgaria,70:30,72:30,84:38,63:32
+FC Basel 1893,Switzerland,74:36,72:36,72:36,78:36
+Zenit St. Petersburg,Russia,61:30,62:30,63:30,67:30
+Galatasaray,Turkey,77:34,71:34,65:34,77:34
+Anderlecht,Belgium,67:30,67:30,57:30,57:30
+CSKA Moscow,Russia,59:30,64:30,64:30,60:30
+APOEL Nicosia,Cyprus,56:26,66:26,59:26,46:22
+Maribor,Slovenia,85:36,78:36,77:36,79:36
+BATE Borisov,Belarus,66:33,68:30,48:22,51:22
+Shakhtar Donetsk,Ukraine,79:30,79:30,65:28,56:26
+
+2015, 12-13,13-14,14-15,15-16
+Malmoe FF,Sweden,56:30,63:30,62:30,54:30
+Shakhtar Donetsk,Ukraine,79:30,65:28,56:26,63:26
+CSKA Moscow,Russia,64:30,64:30,60:30,65:30
+Galatasaray,Turkey,71:34,65:34,77:34,51:34
+FC Astana,Kazakhstan,41:22,39:22,43:22,53:22
+BATE Borisov,Belarus,68:30,48:22,51:22,65:26
+Dinamo Zagreb,Croatia,77:33,84:36,88:36,85:36
+Olympiacos,Greece,77:32,86:34,78:34,85:30
+Maccai Tel Aviv,Israel,59:26,66:26,56:26,61:26
+Gent,Belgium,34:30,44:30,57:30,60:30
+Zenit St. Petersburg,Russia,62:30,63:30,67:30,59:30
+Dynamo Kyiv,Ukraine,62:30,53:28,66:26,70:26

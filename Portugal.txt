@@ -1,0 +1,147 @@
+2008,30
+FC Porto-9773,70
+Sporting CP-9768,66
+Benfica-9772,59
+Nacional-10214,52
+Braga-10264,50
+Leixoes-6421,45
+Academica-10215,39
+Vitoria de Guimaraes-7844,38
+Maritimo-10212,37
+Pacos de Ferreira-6403,34
+Amadora-10213,34
+Rio Ave-7841,30
+Naval-9809,29
+Vitoria de Setubal-10238,26
+Belenenses-9807,24
+Trofense-7992,23
+
+2009,30
+Benfica-9772,76
+Braga-10264,71
+FC Porto-9773,68
+Sporting CP-9768,48
+Maritimo-10212,41
+Vitoria de Guimaraes-7844,41
+Nacional-10214,39
+Naval-9809,36
+Pacos de Ferreira-6403,35
+Uniao de Leiria-9771,35
+Academica-10215,33
+Rio Ave-7841,31
+Olhanense-2033,29
+Vitoria de Setubal-10238,25
+Belenenses-9807,23
+Leixoes-6421,21
+
+2010,30
+FC Porto-9773,84
+Benfica-9772,63
+Sporting CP-9768,48
+Braga-10264,46
+Vitoria de Guimaraes-7844,43
+Nacional-10214,42
+Pacos de Ferreira-6403,41
+Rio Ave-7841,38
+Maritimo-10212,35
+Uniao de Leiria-9771,35
+Olhanense-2033,34
+Vitoria de Setubal-10238,34
+Beira Mar-10211,33
+Academica-10215,30
+Portimonense-9765,25
+Naval-9809,23
+
+2011,30
+FC Porto-9773,75
+Benfica-9772,69
+Braga-10264,62
+Sporting CP-9768,59
+Maritimo-10212,50
+Vitoria de Guimaraes-7844,45
+Nacional-10214,44
+Olhanense-2033,39
+Gil Vicente-9764,34
+Pacos de Ferreira-6403,31
+Vitoria de Setubal-10238,30
+Academica-10215,29
+Beira Mar-10211,29
+Rio Ave-7841,28
+Feirense-4064,24
+Uniao de Leiria-9771,19
+
+2012,30
+FC Porto-9773,78
+Benfica-9772,77
+Pacos de Ferreira-6403,54
+Braga-10264,52
+Estoril-7842,45
+Sporting CP-9768,42
+Rio Ave-7841,42
+Nacional-10214,40
+Vitoria de Guimaraes-7844,40
+Maritimo-10212,38
+Academica-10215,28
+Vitoria de Setubal-10238,26
+Olhanense-2033,25
+Gil Vicente-9764,25
+Moreirense-8348,24
+Beira Mar-10211,23
+
+2013,30
+Benfica-9772,74
+Sporting CP-9768,67
+FC Porto-9773,61
+Estoril-7842,54
+Nacional-10214,45
+Maritimo-10212,41
+Vitoria de Setubal-10238,39
+Braga-10264,37
+Academica-10215,37
+Vitoria de Guimaraes-7844,35
+Rio Ave-7841,32
+Arouca-158085,31
+Gil Vicente-9764,31
+Belenenses-9807,28
+Olhanense-2033,24
+Pacos de Ferreira-6403,24
+
+2014,34
+Benfica-9772,85
+FC Porto-9773,82	
+Sporting CP-9768,76
+Braga-10264,58
+Vitoria de Guimaraes-7844,55
+Belenenses-9807,48
+Nacional-10214,47
+Pacos de Ferreira-6403,47
+Maritimo-10212,44
+Rio Ave-7841,43
+Moreirense-8348,43
+Estoril-7842,40
+Boavista-8613,34
+Academica-10215,29
+Vitoria de Setubal-10238,29
+Arouca-158085,28
+Gil Vicente-9764,23
+Penafiel-6547,22
+
+2015,34
+Benfica-9772,88
+Sporting CP-9768,86
+FC Porto-9773,73
+Braga-10264,58
+Arouca-158085,54
+Rio Ave-7841,50
+Pacos de Ferreira-6403,49
+Estoril-7842,47
+Belenenses-9807,41
+Vitoria de Guimaraes-7844,40
+Nacional-10214,38
+Moreirense-8348,36
+Maritimo-10212,35
+Boavista-8613,33
+Tondela-188163,30
+Vitoria de Setubal-10238,30
+Uniao da Madeira-6367,29
+Academica-10215,25

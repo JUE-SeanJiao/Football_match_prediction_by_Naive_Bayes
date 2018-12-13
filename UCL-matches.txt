@@ -1,0 +1,629 @@
+2011/2012: (0-homewin,1-tie,2-awaywin)
+Chelsea-8455,Valencia-10267,0,3:0,2011-12-6
+Genk-9987,Bayer Leverkusen-8178,1,1:1,2011-12-6
+Olympiacos-,Arsenal-9825,0,3:1,2011-12-6
+Borussia Dortmund-9789,Marseille-8592,2,2:3,2011-12-6
+Barcelona-8634,BATE Borisov-,0,4:0,2011-12-6
+Viktoria Plzen-,AC Milan-8564,1,2:2,2011-12-6
+FC Porto-9773,Zenit St. Petersburg-,1,0:0,2011-12-6
+APOEL Nicosia-,Shakhtar Donetsk-,2,0:2,2011-12-6
+FC Basel 1893-9931,Manchester United-10260,0,2:1,2011-12-7
+Benfica-9772,Otelul Galati-,0,1:0,2011-12-7
+Dinamo Zagreb-,Lyon-9748,2,1:7,2011-12-7
+Ajax-8593,Real Madrid-8633,2,0:3,2011-12-7
+Manchester City-8456,Bayern Munich-9823,0,2:0,2011-12-7
+Villarreal-10205,Napoli-9875,2,0:2,2011-12-7
+Lille-8639,Trabzonspor-,1,0:0,2011-12-7
+Inter-8636,CSKA Moscow-,2,1:2,2011-12-7
+Chelsea-8455,Bayer Leverkusen-8178,0,2:0,2011-09-13
+Genk-9987,Valencia-10267,1,0:0,2011-09-13
+Olympiacos-,Marseille-8592,2,0:1,2011-09-13
+Borussia Dortmund-9789,Arsenal-9825,1,1:1,2011-09-13
+Barcelona-8634,AC Milan-8564,1,2:2,2011-09-13
+Viktoria Plzen-,BATE Borisov-,1,1:1,2011-09-13
+FC Porto-9773,Shakhtar Donetsk-,0,2:1,2011-09-13
+APOEL Nicosia-,Zenit St. Petersburg-,0,2:1,2011-09-13
+FC Basel 1893-9931,Otelul Galati-,0,2:1,2011-09-14
+Benfica-9772,Manchester United-10260,1,1:1,2011-09-14
+Dinamo Zagreb-,Real Madrid-8633,2,0:1,2011-09-14
+Ajax-8593,Lyon-9748,1,0:0,2011-09-14
+Manchester City-8456,Napoli-9875,1,1:1,2011-09-14
+Villarreal-10205,Bayern Munich-9823,2,0:2,2011-09-14
+Lille-8639,CSKA Moscow-,1,2:2,2011-09-14
+Inter-8636,Trabzonspor-,2,0:1,2011-09-14
+CSKA Moscow-,Inter-8636,2,2:3,2011-09-27
+Trabzonspor-,Lille-8639,1,1:1,2011-09-27
+Bayern Munich-9823,Manchester City-8456,0,2:0,2011-09-27
+Napoli-9875,Villarreal-10205,0,2:0,2011-09-27
+Manchester United-10260,FC Basel 1893-9931,1,3:3,2011-09-27
+Otelul Galati-,Benfica-9772,2,0:1,2011-09-27
+Lyon-9748,Dinamo Zagreb-,0,2:0,2011-09-27
+Real Madrid-8633,Ajax-8593,0,3:0,2011-09-27
+Zenit St. Petersburg-,FC Porto-9773,0,3:1,2011-09-28
+Valencia-10267,Chelsea-8455,1,1:1,2011-09-28
+Bayer Leverkusen-8178,Genk-9987,0,2:0,2011-09-28
+Arsenal-9825,Olympiacos-,0,2:1,2011-09-28
+Marseille-8592,Borussia Dortmund-9789,0,3:0,2011-09-28
+BATE Borisov-,Barcelona-8634,2,0:5,2011-09-28
+AC Milan-8564,Viktoria Plzen-,0,2:0,2011-09-28
+Shakhtar Donetsk-,APOEL Nicosia-,1,1:1,2011-09-28
+CSKA Moscow-,Trabzonspor-,0,3:0,2011-10-18
+Lille-8639,Inter-8636,2,0:1,2011-10-18
+Napoli-9875,Bayern Munich-9823,1,1:1,2011-10-18
+Manchester City-8456,Villarreal-10205,0,2:1,2011-10-18
+Otelul Galati-,Manchester United-10260,2,0:2,2011-10-18
+FC Basel 1893-9931,Benfica-9772,2,0:2,2011-10-18
+Real Madrid-8633,Lyon-9748,0,4:0,2011-10-18
+Dinamo Zagreb-,Ajax-8593,2,0:2,2011-10-18
+Marseille-8592,Arsenal-9825,2,0:1,2011-10-19
+Olympiacos-,Borussia Dortmund-9789,0,3:1,2011-10-19
+AC Milan-8564,BATE Borisov-,0,2:0,2011-10-19
+Barcelona-8634,Viktoria Plzen-,0,2:0,2011-10-19
+Shakhtar Donetsk-,Zenit St. Petersburg-,1,2:2,2011-10-19
+FC Porto-9773,APOEL Nicosia-,1,1:1,2011-10-19
+Bayer Leverkusen-8178,Valencia-10267,0,2:1,2011-10-19
+Chelsea-8455,Genk-9987,0,5:0,2011-10-19
+BATE Borisov-,AC Milan-8564,1,1:1,2011-11-01
+Zenit St. Petersburg-,Shakhtar Donetsk-,0,1:0,2011-11-01
+APOEL Nicosia-,FC Porto-9773,0,2:1,2011-11-01
+Viktoria Plzen-,Barcelona-8634,2,0:4,2011-11-01
+Arsenal-9825,Marseille-8592,1,0:0,2011-11-01
+Borussia Dortmund-9789,Olympiacos-,0,1:0,2011-11-01
+Valencia-10267,Bayer Leverkusen-8178,0,3:1,2011-11-01
+Genk-9987,Chelsea-8455,1,1:1,2011-11-01
+Manchester United-10260,Otelul Galati-,0,2:0,2011-11-02
+Benfica-9772,FC Basel 1893-9931,1,1:1,2011-11-02
+Lyon-9748,Real Madrid-8633,2,0:2,2011-11-02
+Ajax-8593,Dinamo Zagreb-,0,4:0,2011-11-02
+Bayern Munich-9823,Napoli-9875,0,3:2,2011-11-02
+Villarreal-10205,Manchester City-8456,2,0:3,2011-11-02
+Trabzonspor-,CSKA Moscow-,1,0:0,2011-11-02
+Inter-8636,Lille-8639,0,2:1,2011-11-02
+CSKA Moscow-,Lille-8639,2,0:2,2011-11-22
+Trabzonspor-,Inter-8636,1,1:1,2011-11-22
+Otelul Galati-,FC Basel 1893-9931,2,2:3,2011-11-22
+Manchester United-10260,Benfica-9772,1,2:2,2011-11-22
+Real Madrid-8633,Dinamo Zagreb-,0,6:2,2011-11-22
+Lyon-9748,Ajax-8593,1,0:0,2011-11-22
+Napoli-9875,Manchester City-8456,0,2:1,2011-11-22
+Bayern Munich-9823,Villarreal-10205,0,3:1,2011-11-22
+Zenit St. Petersburg-,APOEL Nicosia-,1,0:0,2011-11-23
+BATE Borisov-,Viktoria Plzen-,2,0:1,2011-11-23
+Shakhtar Donetsk-,FC Porto-9773,2,0:2,2011-11-23
+Marseille-8592,Olympiacos-,2,0:1,2011-11-23
+Arsenal-9825,Borussia Dortmund-9789,0,2:1,2011-11-23
+AC Milan-8564,Barcelona-8634,2,2:3,2011-11-23
+Bayer Leverkusen-8178,Chelsea-8455,0,2:1,2011-11-23
+Valencia-10267,Genk-9987,0,7:0,2011-11-23
+Bayer Leverkusen-8178,Barcelona-8634,2,1:3,2012-02-14
+Barcelona-8634,Bayer Leverkusen-8178,0,7:1,2012-03-07
+Lyon-9748,APOEL Nicosia-,0,1:0,2012-02-14
+APOEL Nicosia-,Lyon-9748,0,1:0,2012-03-07
+Zenit St. Petersburg-,Benfica-9772,0,3:2,2012-02-15
+Benfica-9772,Zenit St. Petersburg-,0,2:0,2012-03-06
+AC Milan-8564,Arsenal-9825,0,4:0,2012-02-15
+Arsenal-9825,AC Milan-8564,0,3:0,2012-03-06
+CSKA Moscow-,Real Madrid-8633,1,1:1,2012-02-21
+Real Madrid-8633,CSKA Moscow-,0,4:1,2012-03-14
+Napoli-9875,Chelsea-8455,0,3:1,2012-02-21
+Chelsea-8455,Napoli-9875,0,4:1,2012-03-14
+FC Basel 1893-9931,Bayern Munich-9823,0,1:0,2012-02-22
+Bayern Munich-9823,FC Basel 1893-9931,0,7:0,2012-03-13
+Marseille-8592,Inter-8636,0,1:0,2012-02-22
+Inter-8636,Marseille-8592,0,2:1,2012-03-13
+APOEL Nicosia-,Real Madrid-8633,2,0:3,2012-03-27
+Real Madrid-8633,APOEL Nicosia-,0,5:2,2012-04-04
+Benfica-9772,Chelsea-8455,2,0:1,2012-03-27
+Chelsea-8455,Benfica-9772,0,2:1,2012-04-04
+AC Milan-8564,Barcelona-8634,1,0:0,2012-03-28
+Barcelona-8634,AC Milan-8564,0,3:1,2012-04-03
+Marseille-8592,Bayern Munich-9823,2,0:2,2012-03-28
+Bayern Munich-9823,Marseille-8592,0,2:0,2012-04-03
+Bayern Munich-9823,Real Madrid-8633,0,2:1,2012-04-17
+Real Madrid-8633,Bayern Munich-9823,0,2:1,2012-04-25
+Chelsea-8455,Barcelona-8634,0,1:0,2012-04-18
+Barcelona-8634,Chelsea-8455,1,2:2,2012-04-24
+
+2012/2013: (0-homewin,1-tie,2-awaywin)
+Dinamo Zagreb-,Dynamo Kyiv-,1,1:1,2012-12-04
+Paris Saint Germain-9847,FC Porto-9773,0,2:1,2012-12-04
+Dinamo Zagreb-,FC Porto-9773,2,0:2,2012-09-18
+Paris Saint Germain-9847,Dynamo Kyiv-,0,4:1,2012-09-18
+Dynamo Kyiv-,Dinamo Zagreb-,0,2:0,2012-10-03
+FC Porto-9773,Paris Saint Germain-9847,0,1:0,2012-10-03
+FC Porto-9773,Dynamo Kyiv-,0,3:2,2012-10-24
+Dinamo Zagreb-,Paris Saint Germain-9847,2,0:2,2012-10-24
+Dynamo Kyiv-,FC Porto-9773,1,0:0,2012-11-06
+Paris Saint Germain-9847,Dinamo Zagreb-,0,4:0,2012-11-06
+FC Porto-9773,Dinamo Zagreb-,0,3:0,2012-11-21
+Dynamo Kyiv-,Paris Saint Germain-9847,2,0:2,2012-11-21
+Montpellier-10249,Arsenal-9825,2,1:2,2012-09-18
+Olympiacos-,Schalke 04-10189,2,1:2,2012-09-18
+Schalke 04-10189,Montpellier-10249,1,2:2,2012-10-03
+Arsenal-9825,Olympiacos-,0,3:1,2012-10-03
+Arsenal-9825,Schalke 04-10189,2,0:2,2012-10-24
+Montpellier-10249,Olympiacos-,2,1:2,2012-10-24
+Schalke 04-10189,Arsenal-9825,1,2:2,2012-11-06
+Olympiacos-,Montpellier-10249,0,3:1,2012-11-06
+Arsenal-9825,Montpellier-10249,0,2:0,2012-11-21
+Schalke 04-10189,Olympiacos-,0,1:0,2012-11-21
+Montpellier-10249,Schalke 04-10189,1,1:1,2012-12-04
+Olympiacos-,Arsenal-9825,0,2:1,2012-12-04
+Malaga-9864,Zenit St. Petersburg-,0,3:0,2012-09-18
+AC Milan-8564,Anderlecht-,1,0:0,2012-09-18
+Zenit St. Petersburg-,AC Milan-8564,2,2:3,2012-10-03
+Anderlecht-,Malaga-9864,2,0:3,2012-10-03
+Zenit St. Petersburg-,Anderlecht-,0,1:0,2012-10-24
+Malaga-9864,AC Milan-8564,0,1:0,2012-10-24
+Anderlecht-,Zenit St. Petersburg-,0,1:0,2012-11-06
+AC Milan-8564,Malaga-9864,1,1:1,2012-11-06
+Zenit St. Petersburg-,Malaga-9864,1,2:2,2012-11-21
+Anderlecht-,AC Milan-8564,2,1:3,2012-11-21
+Malaga-9864,Anderlecht-,1,2:2,2012-12-04
+AC Milan-8564,Zenit St. Petersburg-,2,0:1,2012-12-04
+Borussia Dortmund-9789,Ajax-8593,0,1:0,2012-09-18
+Real Madrid-8633,Manchester City-8456,0,3:2,2012-09-18
+Manchester City-8456,Borussia Dortmund-9789,1,1:1,2012-10-03
+Ajax-8593,Real Madrid-8633,2,1:4,2012-10-03
+Ajax-8593,Manchester City-8456,0,3:1,2012-10-24
+Borussia Dortmund-9789,Real Madrid-8633,0,2:1,2012-10-24
+Manchester City-8456,Ajax-8593,1,2:2,2012-11-06
+Real Madrid-8633,Borussia Dortmund-9789,1,2:2,2012-11-06
+Ajax-8593,Borussia Dortmund-9789,2,1:4,2012-11-21
+Manchester City-8456,Real Madrid-8633,1,1:1,2012-11-21
+Borussia Dortmund-9789,Manchester City-8456,0,1:0,2012-12-04
+Real Madrid-8633,Ajax-8593,0,4:1,2012-12-04
+Shakhtar Donetsk-,FC Nordsjaelland-,0,2:0,2012-09-19
+Chelsea-8455,Juventus-9885,1,2:2,2012-09-19
+Juventus-9885,Shakhtar Donetsk-,1,1:1,2012-10-04
+FC Nordsjaelland-,Chelsea-8455,2,0:4,2012-10-04
+FC Nordsjaelland-,Juventus-9885,1,1:1,2012-10-25
+Shakhtar Donetsk-,Chelsea-8455,0,2:1,2012-10-25
+Juventus-9885,FC Nordsjaelland-,0,4:0,2012-11-07
+Chelsea-8455,Shakhtar Donetsk-,0,3:2,2012-11-07
+FC Nordsjaelland-,Shakhtar Donetsk-,2,2:5,2012-11-22
+Juventus-9885,Chelsea-8455,0,3:0,2012-11-22
+Shakhtar Donetsk-,Juventus-9885,2,0:1,2012-12-05
+Chelsea-8455,FC Nordsjaelland-,0,6:1,2012-12-05
+Lille-8639,Valencia-10267,2,0:1,2012-12-05
+Bayern Munich-9823,BATE Borisov-,0,4:1,2012-12-05
+Lille-8639,BATE Borisov-,2,1:3,2012-09-19
+Bayern Munich-9823,Valencia-10267,0,2:1,2012-09-19
+Valencia-10267,Lille-8639,0,2:0,2012-10-04
+BATE Borisov-,Bayern Munich-9823,0,3:1,2012-10-04
+BATE Borisov-,Valencia-10267,2,0:3,2012-10-25
+Lille-8639,Bayern Munich-9823,2,0:1,2012-10-25
+Valencia-10267,BATE Borisov-,0,4:2,2012-11-07
+Bayern Munich-9823,Lille-8639,0,6:1,2012-11-07
+BATE Borisov-,Lille-8639,2,0:2,2012-11-22
+Valencia-10267,Bayern Munich-9823,1,1:1,2012-11-22
+Barcelona-8634,Spartak Moscow-,0,3:2,2012-09-19
+Celtic-9925,Benfica-9772,1,0:0,2012-09-19
+Spartak Moscow-,Celtic-9925,2,2:3,2012-10-04
+Benfica-9772,Barcelona-8634,2,0:2,2012-10-04
+Spartak Moscow-,Benfica-9772,0,2:1,2012-10-25
+Barcelona-8634,Celtic-9925,0,2:1,2012-10-25
+Benfica-9772,Spartak Moscow-,0,2:0,2012-11-07
+Celtic-9925,Barcelona-8634,0,2:1,2012-11-07
+Spartak Moscow-,Barcelona-8634,2,0:3,2012-11-22
+Benfica-9772,Celtic-9925,0,2:1,2012-11-22
+Barcelona-8634,Benfica-9772,1,0:0,2012-12-05
+Celtic-9925,Spartak Moscow-,0,2:1,2012-12-05
+Manchester United-10260,CFR Cluj-,2,0:1,2012-12-05
+Braga-10264,Galatasaray-,2,1:2,2012-12-05
+Manchester United-10260,Galatasaray-,0,1:0,2012-09-19
+Braga-10264,CFR Cluj-,2,0:2,2012-09-19
+CFR Cluj-,Manchester United-10260,2,1:2,2012-10-04
+Galatasaray-,Braga-10264,2,0:2,2012-10-04
+Galatasaray-,CFR Cluj-,1,1:1,2012-10-25
+Manchester United-10260,Braga-10264,0,3:2,2012-10-25
+CFR Cluj-,Galatasaray-,2,1:3,2012-11-07
+Braga-10264,Manchester United-10260,2,1:3,2012-11-07
+Galatasaray-,Manchester United-10260,0,1:0,2012-11-22
+CFR Cluj-,Braga-10264,0,3:1,2012-11-22
+Celtic-9925,Juventus-9885,2,1:2,2013-02-12
+Valencia-10267,Paris Saint Germain-9847,2,1:2,2013-02-12
+Shakhtar Donetsk-,Borussia Dortmund-9789,1,2:2,2013-02-13
+Real Madrid-8633,Manchester United-10260,1,1:1,2013-02-13
+Arsenal-9825,Bayern Munich-9823,2,1:3,2013-02-19
+FC Porto-9773,Malaga-9864,0,1:0,2013-02-19
+Galatasaray-,Schalke 04-10189,1,1:1,2013-02-20
+AC Milan-8564,Barcelona-8634,0,2:0,2013-02-20
+Manchester United-10260,Real Madrid-8633,2,1:2,2013-03-05
+Borussia Dortmund-9789,Shakhtar Donetsk-,0,3:0,2013-03-05
+Juventus-9885,Celtic-9925,0,2:0,2013-03-06
+Paris Saint Germain-9847,Valencia-10267,1,1:1,2013-03-06
+Schalke 04-10189,Galatasaray-,2,2:3,2013-03-12
+Barcelona-8634,AC Milan-8564,0,4:0,2013-03-12
+Bayern Munich-9823,Arsenal-9825,2,0:2,2013-03-13
+Malaga-9864,FC Porto-9773,0,2:0,2013-03-13
+Paris Saint Germain-9847,Barcelona-8634,1,2:2,2013-04-02
+Bayern Munich-9823,Juventus-9885,0,2:0,2013-04-02
+Malaga-9864,Borussia Dortmund-9789,1,0:0,2013-04-03
+Real Madrid-8633,Galatasaray-,0,3:0,2013-04-03
+Borussia Dortmund-9789,Malaga-9864,0,3:2,2013-04-09
+Galatasaray-,Real Madrid-8633,0,3:2,2013-04-09
+Barcelona-8634,Paris Saint Germain-9847,1,1:1,2013-04-10
+Juventus-9885,Bayern Munich-9823,2,0:2,2013-04-10
+Bayern Munich-9823,Barcelona-8634,0,4:0,2013-04-23
+Borussia Dortmund-9789,Real Madrid-8633,0,4:1,2013-04-24
+Real Madrid-8633,Borussia Dortmund-9789,0,2:0,2013-04-30
+Barcelona-8634,Bayern Munich-9823,2,0:3,2013-05-01
+
+2013/2014: (0-homewin,1-tie,2-awaywin)
+Manchester United-10260,Bayer Leverkusen-8178,0,4:2,2013-09-17
+Real Sociedad-8560,Shakhtar Donetsk-,2,0:2,2013-09-17
+Shakhtar Donetsk-,Manchester United-10260,1,1:1,2013-10-02
+Bayer Leverkusen-8178,Real Sociedad-8560,0,2:1,2013-10-02
+Bayer Leverkusen-8178,Shakhtar Donetsk-,0,4:0,2013-10-23
+Manchester United-10260,Real Sociedad-8560,0,1:0,2013-10-23
+Shakhtar Donetsk-,Bayer Leverkusen-8178,1,0:0,2013-11-05
+Real Sociedad-8560,Manchester United-10260,1,0:0,2013-11-05
+Bayer Leverkusen-8178,Manchester United-10260,2,0:5,2013-11-27
+Shakhtar Donetsk-,Real Sociedad-8560,0,4:0,2013-11-27
+Manchester United-10260,Shakhtar Donetsk-,0,1:0,2013-12-10
+Real Sociedad-8560,Bayer Leverkusen-8178,2,0:1,2013-12-10
+FC Copenhagen-,Juventus-9885,1,1:1,2013-09-17
+Galatasaray-,Real Madrid-8633,2,1:6,2013-09-17
+Juventus-9885,Galatasaray-,1,2:2,2013-10-02
+Real Madrid-8633,FC Copenhagen-,0,4:0,2013-10-02
+Real Madrid-8633,Juventus-9885,0,2:1,2013-10-23
+Galatasaray-,FC Copenhagen-,0,3:1,2013-10-23
+Juventus-9885,Real Madrid-8633,1,2:2,2013-11-05
+FC Copenhagen-,Galatasaray-,0,1:0,2013-11-05
+Real Madrid-8633,Galatasaray-,0,4:1,2013-11-27
+Juventus-9885,FC Copenhagen-,0,3:1,2013-11-27
+FC Copenhagen-,Real Madrid-8633,2,0:2,2013-12-10
+Galatasaray-,Juventus-9885,0,1:0,2013-12-10
+Olympiacos-,Paris Saint Germain-9847,2,1:4,2013-12-10
+Benfica-9772,Anderlecht-,0,2:0,2013-12-10
+Paris Saint Germain-9847,Benfica-9772,0,3:0,2013-09-17
+Anderlecht-,Olympiacos-,2,0:3,2013-09-17
+Anderlecht-,Paris Saint Germain-9847,2,0:5,2013-10-02
+Benfica-9772,Olympiacos-,1,1:1,2013-10-02
+Paris Saint Germain-9847,Anderlecht-,1,1:1,2013-10-23
+Olympiacos-,Benfica-9772,0,1:0,2013-10-23
+Anderlecht-,Benfica-9772,2,2:3,2013-11-05
+Paris Saint Germain-9847,Olympiacos-,0,2:1,2013-11-05
+Benfica-9772,Paris Saint Germain-9847,0,2:1,2013-11-27
+Olympiacos-,Anderlecht-,0,3:1,2013-11-27
+Bayern Munich-9823,CSKA Moscow-,0,3:0,2013-09-17
+Viktoria Plzen-,Manchester City-8456,2,0:3,2013-09-17
+CSKA Moscow-,Viktoria Plzen-,0,3:2,2013-10-02
+Manchester City-8456,Bayern Munich-9823,2,1:3,2013-10-02
+CSKA Moscow-,Manchester City-8456,2,1:2,2013-10-23
+Bayern Munich-9823,Viktoria Plzen-,0,5:0,2013-10-23
+Manchester City-8456,CSKA Moscow-,0,5:2,2013-11-05
+Viktoria Plzen-,Bayern Munich-9823,2,0:1,2013-11-05
+CSKA Moscow-,Bayern Munich-9823,0,1:3,2013-11-27
+Manchester City-8456,Viktoria Plzen-,0,4:2,2013-11-27
+Viktoria Plzen-,CSKA Moscow-,0,2:1,2013-12-10
+Bayern Munich-9823,Manchester City-8456,2,2:3,2013-12-10
+Schalke 04-10189,FC FCSB-,0,3:0,2013-09-18
+Chelsea-8455,FC Basel 1893-,2,1:2,2013-09-18
+FC Basel 1893-,Schalke 04-10189,2,0:1,2013-10-03
+FC FCSB-,Chelsea-8455,2,0:4,2013-10-03
+FC FCSB-,FC Basel 1893-,1,1:1,2013-10-24
+Schalke 04-10189,Chelsea-8455,2,0:3,2013-10-24
+FC Basel 1893-,FC FCSB-,1,1:1,2013-11-06
+Chelsea-8455,Schalke 04-10189,0,3:0,2013-11-06
+FC FCSB-,Schalke 04-10189,0,0:0,2013-11-28
+FC Basel 1893-,Chelsea-8455,0,1:0,2013-11-28
+Schalke 04-10189,FC Basel 1893-,0,2:0,2013-12-11
+Chelsea-8455,FC FCSB-,0,1:0,2013-12-11
+Marseille-8592,Arsenal-9825,2,1:2,2013-09-18
+Napoli-9875,Borussia Dortmund-9789,0,2:1,2013-09-18
+Borussia Dortmund-9789,Marseille-8592,0,3:0,2013-10-03
+Arsenal-9825,Napoli-9875,0,2:0,2013-10-03
+Arsenal-9825,Borussia Dortmund-9789,2,1:2,2013-10-24
+Marseille-8592,Napoli-9875,2,1:2,2013-10-24
+Borussia Dortmund-9789,Arsenal-9825,2,0:1,2013-11-06
+Napoli-9875,Marseille-8592,0,3:2,2013-11-06
+Arsenal-9825,Marseille-8592,0,2:0,2013-11-28
+Borussia Dortmund-9789,Napoli-9875,0,3:1,2013-11-28
+Marseille-8592,Borussia Dortmund-9789,0,1:2,2013-12-11
+Napoli-9875,Arsenal-9825,0,2:0,2013-12-11
+Austria Wien-,FC Porto-9773,2,0:1,2013-09-18
+Atletico Madrid-9906,Zenit St. Petersburg-,0,3:1,2013-09-18
+Zenit St. Petersburg-,Austria Wien-,1,0:0,2013-10-03
+FC Porto-9773,Atletico Madrid-9906,2,1:2,2013-10-03
+FC Porto-9773,Zenit St. Petersburg-,2,0:1,2013-10-24
+Zenit St. Petersburg-,FC Porto-9773,1,1:1,2013-10-24
+Atletico Madrid-9906,Austria Wien-,0,4:0,2013-11-06
+Austria Wien-,Atletico Madrid-9906,2,0:3,2013-11-06
+Zenit St. Petersburg-,Atletico Madrid-9906,1,1:1,2013-11-28
+FC Porto-9773,Austria Wien-,1,1:1,2013-11-28
+Austria Wien-,Zenit St. Petersburg-,0,4:1,2013-12-11
+Atletico Madrid-9906,FC Porto-9773,0,2:0,2013-12-11
+AC Milan-8564,Celtic-9925,0,2:0,2013-09-18
+Barcelona-8634,Ajax-8593,0,4:0,2013-09-18
+Ajax-8593,AC Milan-8564,1,1:1,2013-10-03
+Celtic-9925,Barcelona-8634,2,0:1,2013-10-03
+Celtic-9925,Ajax-8593,0,2:1,2013-10-24
+AC Milan-8564,Barcelona-8634,1,1:1,2013-10-24
+Ajax-8593,Celtic-9925,0,1:0,2013-11-06
+Barcelona-8634,AC Milan-8564,0,3:1,2013-11-06
+Celtic-9925,AC Milan-8564,2,0:3,2013-11-28
+Ajax-8593,Barcelona-8634,0,2:1,2013-11-28
+AC Milan-8564,Ajax-8593,1,0:0,2013-12-11
+Barcelona-8634,Celtic-9925,0,6:1,2013-12-11
+Manchester City-8456,Barcelona-8634,2,0:2,2014-02-18
+Barcelona-8634,Manchester City-8456,0,2:1,2014-03-12
+Bayer Leverkusen-8178,Paris Saint Germain-9847,2,0:4,2014-02-18
+Paris Saint Germain-9847,Bayer Leverkusen-8178,0,2:1,2014-03-12
+Arsenal-9825,Bayern Munich-9823,2,0:2,2014-02-19
+Bayern Munich-9823,Arsenal-9825,1,1:1,2014-03-11
+AC Milan-8564,Atletico Madrid-9906,2,0:1,2014-02-19
+Atletico Madrid-9906,AC Milan-8564,0,4:1,2014-03-11
+Zenit St. Petersburg-,Borussia Dortmund-9789,2,2:4,2014-02-25
+Borussia Dortmund-9789,Zenit St. Petersburg-,2,1:2,2014-03-19
+Olympiacos-,Manchester United-10260,0,2:0,2014-02-25
+Manchester United-10260,Olympiacos-,0,3:0,2014-03-19
+Galatasaray-,Chelsea-8455,1,1:1,2014-02-26
+Chelsea-8455,Galatasaray-,0,2:0,2014-03-18
+Schalke 04-10189,Real Madrid-8633,2,1:6,2014-02-26
+Real Madrid-8633,Schalke 04-10189,0,3:1,2014-03-18
+Barcelona-8634,Atletico Madrid-9906,1,1:1,2014-04-01
+Atletico Madrid-9906,Barcelona-8634,0,1:0,2014-04-09
+Manchester United-10260,Bayern Munich-9823,1,1:1,2014-04-01
+Bayern Munich-9823,Manchester United-10260,0,3:1,2014-04-09
+Real Madrid-8633,Borussia Dortmund-9789,0,3:0,2014-04-02
+Borussia Dortmund-9789,Real Madrid-8633,0,2:0,2014-04-08
+Paris Saint Germain-9847,Chelsea-8455,0,3:1,2014-04-02
+Chelsea-8455,Paris Saint Germain-9847,0,2:0,2014-04-08
+Atletico Madrid-9906,Chelsea-8455,0,0:0,2014-04-22
+Chelsea-8455,Atletico Madrid-9906,2,1:3,2014-04-30
+Real Madrid-8633,Bayern Munich-9823,0,1:0,2014-04-23
+Bayern Munich-9823,Real Madrid-8633,2,0:4,2014-04-29
+
+2014/2015: (0-homewin,1-tie,2-awaywin)
+Juventus-9885,Malmoe FF-,0,2:0,2014-09-16
+Olympiacos-,Atletico Madrid-9906,0,3:2,2014-09-16
+Malmoe FF-,Olympiacos-,0,2:0,2014-10-01
+Atletico Madrid-9906,Juventus-9885,0,1:0,2014-10-01
+Atletico Madrid-9906,Malmoe FF-,0,5:0,2014-10-22
+Olympiacos-,Juventus-9885,0,1:0,2014-10-22
+Malmoe FF-,Atletico Madrid-9906,2,0:2,2014-11-04
+Juventus-9885,Olympiacos-,0,3:2,2014-11-04
+Atletico Madrid-9906,Olympiacos-,0,4:0,2014-11-26
+Malmoe FF-,Juventus-9885,2,0:2,2014-11-26
+Olympiacos-,Malmoe FF-,0,4:2,2014-12-09
+Juventus-9885,Atletico Madrid-9906,1,0:0,2014-12-09
+Liverpool-8650,Ludogorets Razgrad-,0,2:1,2014-09-16
+Real Madrid-8633,FC Basel 1893-,0,5:0,2014-09-16
+FC Basel 1893-,Liverpool-8650,0,1:0,2014-10-01
+Ludogorets Razgrad-,Real Madrid-8633,2,1:2,2014-10-01
+Ludogorets Razgrad-,FC Basel 1893-,0,1:0,2014-10-22
+Liverpool-8650,Real Madrid-8633,2,0:3,2014-10-22
+FC Basel 1893-,Ludogorets Razgrad-,0,4:0,2014-11-04
+Real Madrid-8633,Liverpool-8650,0,1:0,2014-11-04
+Ludogorets Razgrad-,Liverpool-8650,1,2:2,2014-11-26
+FC Basel 1893-,Real Madrid-8633,2,0:1,2014-11-26
+Liverpool-8650,FC Basel 1893-,1,1:1,2014-12-09
+Real Madrid-8633,Ludogorets Razgrad-,0,4:0,2014-12-09
+Monaco-9829,Bayer Leverkusen-8178,0,1:0,2014-09-16
+Benfica-9772,Zenit St. Petersburg-,2,0:2,2014-09-16
+Zenit St. Petersburg-,Monaco-9829,1,0:0,2014-10-01
+Bayer Leverkusen-8178,Benfica-9772,0,3:1,2014-10-01
+Bayer Leverkusen-8178,Zenit St. Petersburg-,0,2:0,2014-10-22
+Monaco-9829,Benfica-9772,1,0:0,2014-10-22
+Zenit St. Petersburg-,Bayer Leverkusen-8178,2,1:2,2014-11-04
+Benfica-9772,Monaco-9829,0,1:0,2014-11-04
+Zenit St. Petersburg-,Benfica-9772,0,1:0,2014-11-26
+Bayer Leverkusen-8178,Monaco-9829,2,0:1,2014-11-26
+Monaco-9829,Zenit St. Petersburg-,0,2:0,2014-12-09
+Benfica-9772,Bayer Leverkusen-8178,1,0:0,2014-12-09
+Galatasaray-,Anderlecht-,1,1:1,2014-09-16
+Borussia Dortmund-9789,Arsenal-9825,0,2:0,2014-09-16
+Arsenal-9825,Galatasaray-,0,4:1,2014-10-01
+Anderlecht-,Borussia Dortmund-9789,2,0:3,2014-10-01
+Anderlecht-,Arsenal-9825,2,1:2,2014-10-22
+Galatasaray-,Borussia Dortmund-9789,2,0:4,2014-10-22
+Arsenal-9825,Anderlecht-,1,3:3,2014-11-04
+Borussia Dortmund-9789,Galatasaray-,0,4:1,2014-11-04
+Anderlecht-,Galatasaray-,0,2:0,2014-11-26
+Arsenal-9825,Borussia Dortmund-9789,0,2:0,2014-11-26
+Galatasaray-,Arsenal-9825,2,1:4,2014-12-09
+Borussia Dortmund-9789,Anderlecht-,1,1:1,2014-12-09
+Bayern Munich-9823,Manchester City-8456,0,1:0,2014-09-17
+Roma-8686,CSKA Moscow-,0,5:1,2014-09-17
+CSKA Moscow-,Bayern Munich-9823,2,0:1,2014-10-02
+Manchester City-8456,Roma-8686,1,1:1,2014-10-02
+Manchester City-8456,CSKA Moscow-,2,1:2,2014-10-23
+Bayern Munich-9823,Roma-8686,0,2:0,2014-10-23
+CSKA Moscow-,Manchester City-8456,1,2:2,2014-11-05
+Roma-8686,Bayern Munich-9823,2,1:7,2014-11-05
+CSKA Moscow-,Roma-8686,1,1:1,2014-11-27
+Manchester City-8456,Bayern Munich-9823,0,3:2,2014-11-27
+Roma-8686,Manchester City-8456,2,0:2,2014-12-10
+Bayern Munich-9823,CSKA Moscow-,0,3:0,2014-12-10
+Barcelona-8634,APOEL Nicosia-,0,1:0,2014-09-17
+Ajax-8593,Paris Saint Germain-9847,1,1:1,2014-09-17
+Paris Saint Germain-9847,Barcelona-8634,0,3:2,2014-10-02
+APOEL Nicosia-,Ajax-8593,1,1:1,2014-10-02
+APOEL Nicosia-,Paris Saint Germain-9847,2,0:1,2014-10-23
+Barcelona-8634,Ajax-8593,0,3:1,2014-10-23
+Paris Saint Germain-9847,APOEL Nicosia-,0,1:0,2014-11-05
+Ajax-8593,Barcelona-8634,2,0:2,2014-11-05
+Paris Saint Germain-9847,Ajax-8593,0,3:1,2014-11-27
+APOEL Nicosia-,Barcelona-8634,2,0:4,2014-11-27
+Barcelona-8634,Paris Saint Germain-9847,0,3:1,2014-12-10
+Ajax-8593,APOEL Nicosia-,0,4:0,2014-12-10
+Chelsea-8455,Schalke 04-10189,1,1:1,2014-09-17
+Maribor-,Sporting CP-9768,1,1:1,2014-09-17
+Sporting CP-9768,Chelsea-8455,2,0:1,2014-10-02
+Schalke 04-10189,Maribor-,1,1:1,2014-10-02
+Schalke 04-10189,Sporting CP-9768,0,4:3,2014-10-23
+Chelsea-8455,Maribor-,0,6:0,2014-10-23
+Sporting CP-9768,Schalke 04-10189,0,4:2,2014-11-05
+Maribor-,Chelsea-8455,1,1:1,2014-11-05
+Schalke 04-10189,Chelsea-8455,2,0:5,2014-11-27
+Sporting CP-9768,Maribor-,0,3:1,2014-11-27
+Maribor-,Schalke 04-10189,2,0:1,2014-12-10
+Chelsea-8455,Sporting CP-9768,0,3:1,2014-12-10
+FC Porto-9773,BATE Borisov-,0,6:0,2014-09-17
+Athletic Club-8315,Shakhtar Donetsk-,1,0:0,2014-09-17
+Shakhtar Donetsk-,FC Porto-9773,1,2:2,2014-10-02
+BATE Borisov-,Athletic Club-8315,0,2:1,2014-10-02
+BATE Borisov-,Shakhtar Donetsk-,2,0:7,2014-10-23
+FC Porto-9773,Athletic Club-8315,0,2:1,2014-10-23
+Shakhtar Donetsk-,BATE Borisov-,0,5:0,2014-11-05
+Athletic Club-8315,FC Porto-9773,2,0:2,2014-11-05
+BATE Borisov-,FC Porto-9773,2,0:3,2014-11-27
+Shakhtar Donetsk-,Athletic Club-8315,2,0:1,2014-11-27
+FC Porto-9773,Shakhtar Donetsk-,1,1:1,2014-12-10
+Athletic Club-8315,BATE Borisov-,0,2:0,2014-12-10
+Paris Saint Germain-9847,Chelsea-8455,1,1:1,2015-02-17
+Chelsea-8455,Paris Saint Germain-9847,1,2:2,2015-03-11
+Shakhtar Donetsk-,Bayern Munich-9823,1,0:0,2015-02-17
+Bayern Munich-9823,Shakhtar Donetsk-,0,7:0,2015-03-11
+FC Basel 1893-,FC Porto-9773,1,1:1,2015-02-18
+FC Porto-9773,FC Basel 1893-,0,4:0,2015-03-10
+Schalke 04-10189,Real Madrid-8633,2,0:2,2015-02-18
+Real Madrid-8633,Schalke 04-10189,2,3:4,2015-03-10
+Manchester City-8456,Barcelona-8634,2,1:2,2015-02-24
+Barcelona-8634,Manchester City-8456,0,1:0,2015-03-18
+Juventus-9885,Borussia Dortmund-9789,0,2:1,2015-02-24
+Borussia Dortmund-9789,Juventus-9885,2,0:3,2015-03-18
+Arsenal-9825,Monaco-9829,2,1:3,2015-02-25
+Monaco-9829,Arsenal-9825,2,0:2,2015-03-17
+Bayer Leverkusen-8178,Atletico Madrid-9906,0,1:0,2015-02-25
+Atletico Madrid-9906,Bayer Leverkusen-8178,0,1:0,2015-03-17
+Atletico Madrid-9906,Real Madrid-8633,1,0:0,2015-04-14
+Real Madrid-8633,Atletico Madrid-9906,0,1:0,2015-04-22
+Juventus-9885,Monaco-9829,0,1:0,2015-04-14
+Monaco-9829,Juventus-9885,1,0:0,2015-04-22
+Paris Saint Germain-9847,Barcelona-8634,2,1:3,2015-04-15
+Barcelona-8634,Paris Saint Germain-9847,0,2:0,2015-04-21
+FC Porto-9773,Bayern Munich-9823,0,3:1,2015-04-15
+Bayern Munich-9823,FC Porto-9773,0,6:1,2015-04-21
+Juventus-9885,Real Madrid-8633,0,2:1,2015-05-05
+Real Madrid-8633,Juventus-9885,1,1:1,2015-05-13
+Barcelona-8634,Bayern Munich-9823,0,3:0,2015-05-06
+Bayern Munich-9823,Barcelona-8634,0,3:2,2015-05-12
+
+2015/2016: (0-homewin,1-tie,2-awaywin)
+Paris Saint Germain-9847,Malmoe FF-,0,2:0,2015-09-15
+Real Madrid-8633,Shakhtar Donetsk-,0,4:0,2015-09-15
+Shakhtar Donetsk-,Paris Saint Germain-9847,2,0:3,2015-09-30
+Malmoe FF-,Real Madrid-8633,2,0:2,2015-09-30
+Malmoe FF-,Shakhtar Donetsk-,0,1:0,2015-10-21
+Paris Saint Germain-9847,Real Madrid-8633,1,0:0,2015-10-21
+Shakhtar Donetsk-,Malmoe FF-,0,4:0,2015-11-03
+Real Madrid-8633,Paris Saint Germain-9847,0,1:0,2015-11-03
+Malmoe FF-,Paris Saint Germain-9847,2,0:5,2015-11-25
+Shakhtar Donetsk-,Real Madrid-8633,2,3:4,2015-11-25
+Paris Saint Germain-9847,Shakhtar Donetsk-,0,2:0,2015-12-08
+Real Madrid-8633,Malmoe FF-,0,8:0,2015-12-08
+Wolfsburg-8721,CSKA Moscow-,0,1:0,2015-09-15
+PSV Eindhoven-8640,Manchester United-10260,0,2:1,2015-09-15
+Manchester United-10260,Wolfsburg-8721,0,2:1,2015-09-30
+CSKA Moscow-,PSV Eindhoven-8640,0,3:2,2015-09-30
+CSKA Moscow-,Manchester United-10260,1,1:1,2015-10-21
+Wolfsburg-8721,PSV Eindhoven-8640,0,2:0,2015-10-21
+Manchester United-10260,CSKA Moscow-,0,1:0,2015-11-03
+PSV Eindhoven-8640,Wolfsburg-8721,0,2:0,2015-11-03
+CSKA Moscow-,Wolfsburg-8721,2,0:2,2015-11-25
+Manchester United-10260,PSV Eindhoven-8640,1,0:0,2015-11-25
+Wolfsburg-8721,Manchester United-10260,0,3:2,2015-12-08
+PSV Eindhoven-8640,CSKA Moscow-,0,2:1,2015-12-08
+Galatasaray-,Atletico Madrid-9906,2,0:2,2015-09-15
+Benfica-9772,FC Astana-,0,2:0,2015-09-15
+FC Astana-,Galatasaray-,1,2:2,2015-09-30
+Atletico Madrid-9906,Benfica-9772,2,1:2,2015-09-30
+Atletico Madrid-9906,FC Astana-,0,4:0,2015-10-21
+Galatasaray-,Benfica-9772,0,2:1,2015-10-21
+FC Astana-,Atletico Madrid-9906,1,0:0,2015-11-03
+Benfica-9772,Galatasaray-,0,2:1,2015-11-03
+FC Astana-,Benfica-9772,1,2:2,2015-11-25
+Atletico Madrid-9906,Galatasaray-,0,2:0,2015-11-25
+Galatasaray-,FC Astana-,1,1:1,2015-12-08
+Benfica-9772,Atletico Madrid-9906,2,1:2,2015-12-08
+Manchester City-8456,Juventus-9885,2,1:2,2015-09-15
+Sevilla-8302,Borussia M.Gladbach-9788,0,3:0,2015-09-15
+Borussia M.Gladbach-9788,Manchester City-8456,2,1:2,2015-09-30
+Juventus-9885,Sevilla-8302,0,2:0,2015-09-30
+Juventus-9885,Borussia M.Gladbach-9788,1,0:0,2015-10-21
+Manchester City-8456,Sevilla-8302,0,2:1,2015-10-21
+Borussia M.Gladbach-9788,Juventus-9885,1,1:1,2015-11-03
+Sevilla-8302,Manchester City-8456,2,1:3,2015-11-03
+Juventus-9885,Manchester City-8456,0,1:0,2015-11-25
+Borussia M.Gladbach-9788,Sevilla-8302,0,4:2,2015-11-25
+Manchester City-8456,Borussia M.Gladbach-9788,0,4:2,2015-12-08
+Sevilla-8302,Juventus-9885,0,1:0,2015-12-08
+Bayer Leverkusen-8178,BATE Borisov-,0,4:1,2015-09-16
+Roma-8686,Barcelona-8634,1,1:1,2015-09-16
+Barcelona-8634,Bayer Leverkusen-8178,0,2:1,2015-09-29
+BATE Borisov-,Roma-8686,0,3:2,2015-09-29
+BATE Borisov-,Barcelona-8634,2,0:2,2015-10-20
+Bayer Leverkusen-8178,Roma-8686,1,4:4,2015-10-20
+Barcelona-8634,BATE Borisov-,0,3:0,2015-11-04
+Roma-8686,Bayer Leverkusen-8178,0,3:2,2015-11-04
+BATE Borisov-,Bayer Leverkusen-8178,1,1:1,2015-11-24
+Barcelona-8634,Roma-8686,0,6:1,2015-11-24
+Bayer Leverkusen-8178,Barcelona-8634,1,1:1,2015-12-09
+Roma-8686,BATE Borisov-,1,0:0,2015-12-09
+Dinamo Zagreb-,Arsenal-9825,0,2:1,2015-09-16
+Olympiacos-,Bayern Munich-9823,2,0:3,2015-09-16
+Bayern Munich-9823,Dinamo Zagreb-,0,5:0,2015-09-29
+Arsenal-9825,Olympiacos-,2,2:3,2015-09-29
+Arsenal-9825,Bayern Munich-9823,0,2:0,2015-10-20
+Dinamo Zagreb-,Olympiacos-,2,0:1,2015-10-20
+Bayern Munich-9823,Arsenal-9825,0,5:1,2015-11-04
+Olympiacos-,Dinamo Zagreb-,0,2:1,2015-11-04
+Arsenal-9825,Dinamo Zagreb-,0,3:0,2015-11-24
+Bayern Munich-9823,Olympiacos-,0,4:0,2015-11-24
+Dinamo Zagreb-,Bayern Munich-9823,2,0:2,2015-12-09
+Olympiacos-,Arsenal-9825,2,0:3,2015-12-09
+Dynamo Kyiv-,FC Porto-9773,1,2:2,2015-09-16
+Chelsea-8455,Maccai Tel Aviv-,0,4:0,2015-09-16
+Maccai Tel Aviv-,Dynamo Kyiv-,2,0:2,2015-09-29
+FC Porto-9773,Chelsea-8455,0,2:1,2015-09-29
+FC Porto-9773,Maccai Tel Aviv-,0,2:0,2015-10-20
+Dynamo Kyiv-,Chelsea-8455,1,0:0,2015-10-20
+Maccai Tel Aviv-,FC Porto-9773,2,1:3,2015-11-04
+Chelsea-8455,Dynamo Kyiv-,0,2:1,2015-11-04
+FC Porto-9773,Dynamo Kyiv-,2,0:2,2015-11-24
+Maccai Tel Aviv-,Chelsea-8455,2,0:4,2015-11-24
+Dynamo Kyiv-,Maccai Tel Aviv-,0,1:0,2015-12-09
+Chelsea-8455,FC Porto-9773,0,2:0,2015-12-09
+Valencia-10267,Zenit St. Petersburg-,2,2:3,2015-09-16
+Gent-9991,Lyon-9748,1,1:1,2015-09-16
+Lyon-9748,Valencia-10267,2,0:1,2015-09-29
+Zenit St. Petersburg-,Gent-9991,0,2:1,2015-09-29
+Zenit St. Petersburg-,Lyon-9748,0,3:1,2015-10-20
+Valencia-10267,Gent-9991,0,2:1,2015-10-20
+Lyon-9748,Zenit St. Petersburg-,2,0:2,2015-11-04
+Gent-9991,Valencia-10267,0,1:0,2015-10-20
+Zenit St. Petersburg-,Valencia-10267,0,2:0,2015-11-24
+Lyon-9748,Gent-9991,2,1:2,2015-12-09
+Valencia-10267,Lyon-9748,2,0:2,2015-12-09
+Gent-9991,Zenit St. Petersburg-,0,2:1,2015-12-09
+Paris Saint Germain-9847,Chelsea-8455,0,2:1,2016-02-16
+Chelsea-8455,Paris Saint Germain-9847,2,1:2,2016-03-09
+Benfica-9772,Zenit St. Petersburg-,0,1:0,2016-02-16
+Zenit St. Petersburg-,Benfica-9772,2,1:2,2016-03-09
+Gent-9991,Wolfsburg-8721,2,2:3,2016-02-17
+Wolfsburg-8721,Gent-9991,0,1:0,2016-03-08
+Roma-8686,Real Madrid-8633,2,0:2,2016-02-17
+Real Madrid-8633,Roma-8686,0,2:0,2016-03-08
+Arsenal-9825,Barcelona-8634,2,0:2,2016-02-23
+Barcelona-8634,Arsenal-9825,0,3:1,2016-03-16
+Juventus-9885,Bayern Munich-9823,1,2:2,2016-02-23
+Bayern Munich-9823,Juventus-9885,0,4:2,2016-03-16
+PSV Eindhoven-8640,Atletico Madrid-9906,1,0:0,2016-02-24
+Atletico Madrid-9906,PSV Eindhoven-8640,1,0:0,2016-03-15
+Dynamo Kyiv-,Manchester City-8456,2,1:3,2016-02-24
+Manchester City-8456,Dynamo Kyiv-,1,0:0,2016-03-15
+Bayern Munich-9823,Benfica-9772,0,1:0,2016-04-05
+Benfica-9772,Bayern Munich-9823,1,2:2,2016-04-13
+Barcelona-8634,Atletico Madrid-9906,0,2:1,2016-04-05
+Atletico Madrid-9906,Barcelona-8634,0,2:0,2016-04-13
+Paris Saint Germain-9847,Manchester City-8456,1,2:2,2016-04-06
+Manchester City-8456,Paris Saint Germain-9847,0,1:0,2016-04-12
+Wolfsburg-8721,Real Madrid-8633,0,2:0,2016-04-06
+Real Madrid-8633,Wolfsburg-8721,0,3:0,2016-04-12
+Manchester City-8456,Real Madrid-8633,1,0:0,2016-04-26
+Real Madrid-8633,Manchester City-8456,0,1:0,2016-05-04
+Atletico Madrid-9906,Bayern Munich-9823,0,1:0,2016-04-27
+Bayern Munich-9823,Atletico Madrid-9906,0,2:1,2016-05-03

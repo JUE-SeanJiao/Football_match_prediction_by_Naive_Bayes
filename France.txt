@@ -1,0 +1,175 @@
+2008,38
+Bordeaux-9827,80	
+Marseille-8592,77
+Lyon-9748,71
+Toulouse-9941,64	
+Lille-8639,64
+Paris Saint Germain-9847,64	
+Rennes-9851,61
+Auxerre-8583,55
+Nice-9831,50
+Lorient-8689,45	
+Monaco-9829,45
+Valenciennes-9873,44
+Grenoble-9855,44
+Sochaux-9874,42
+Nancy-8481,42
+Le Mans-8682,40
+Saint Etienne-9853,40	
+Caen-7819,37
+Nantes-9830,37	
+Le Havre-9746,26
+
+2009,38
+Marseille-8592,78
+Lyon-9748,72
+Auxerre-8583,71
+Lille-8639,70
+Montpellier-10249,69
+Bordeaux-9827,64
+Lorient-8689,58
+Monaco-9829,55
+Rennes-9851,53
+Valenciennes-9873,52
+Lens-8588,48
+Nancy-8481,48
+Paris Saint Germain-9847,47
+Toulouse-9941,47
+Nice-9831,44
+Sochaux-9874,41
+Saint Etienne-9853,40
+Le Mans-8682,32
+Boulogne-4170,31
+Grenoble-9855,23
+
+2010,38
+Lille-8639,76
+Marseille-8592,68
+Lyon-9748,64
+Paris Saint Germain-9847,60
+Sochaux-9874,58
+Rennes-9851,56
+Bordeaux-9827,51
+Toulouse-9941,50
+Auxerre-8583,49
+Saint Etienne-9853,49
+Lorient-8689,49
+Valenciennes-9873,48
+Nancy-8481,48
+Montpellier-10249,47
+Caen-7819,46
+Brest-8521,46
+Nice-9831,46
+Monaco-9829,44
+Lens-8588,35
+Arles Avignon-108893,20
+
+2011,38
+Montpellier-10249,82
+Paris Saint Germain-9847,79
+Lille-8639,74
+Lyon-9748,64
+Bordeaux-9827,61	
+Rennes-9851,60
+Saint Etienne-9853,57	
+Toulouse-9941,56
+Evian Thonon Gaillard-4087,50	
+Marseille-8592,48
+Nancy-8481,45
+Valenciennes-9873,43	
+Nice-9831,42
+Sochaux-9874,42	
+Brest-8521,41
+AC Ajaccio-8576,41	
+Lorient-8689,39
+Caen-7819,38
+Dijon-9836,36
+Auxerre-8583,34
+
+2012,38
+Paris Saint Germain-9847,83
+Marseille-8592,71
+Lyon-9748,67
+Nice-9831,64
+Saint Etienne-9853,63
+Lille-8639,62
+Bordeaux-9827,55
+Lorient-8689,53
+Montpellier-10249,52
+Toulouse-9941,51
+Valenciennes-9873,48
+SC Bastia-7794,47
+Rennes-9851,46
+Reims-9837,43
+Sochaux-9874,41
+Evian Thonon Gaillard-4087,40
+AC Ajaccio-8576,40
+Nancy-8481,38
+Troyes-10242,37
+Brest-8521,29
+
+2013,38
+Paris Saint Germain-9847,89
+Monaco-9829,80
+Lille-8639,71
+Saint Etienne-9853,69	
+Lyon-9748,61
+Marseille-8592,60	
+Bordeaux-9827,53
+Lorient-8689,49
+Toulouse-9941,49	
+SC Bastia-7794,49
+Reims-9837,48
+Rennes-9851,46
+Nantes-9830,46
+Evian Thonon Gaillard-4087,44	
+Montpellier-10249,42
+Guingamp-9747,42
+Nice-9831,42
+Sochaux-9874,40	
+Valenciennes-9873,29	
+AC Ajaccio-8576,23
+
+2014,38
+Paris Saint Germain-9847,83
+Lyon-9748,75
+Monaco-9829,71	
+Marseille-8592,69	
+Saint Etienne-9853,69	
+Bordeaux-9827,63
+Montpellier-10249,56	
+Lille-8639,56
+Rennes-9851,50
+Guingamp-9747,49	
+Nice-9831,48
+SC Bastia-7794,47	
+Caen-7819,46
+Nantes-9830,45	
+Reims-9837,44
+Lorient-8689,43
+Toulouse-9941,42	
+Evian Thonon Gaillard-4087,37	
+Metz-8550,30
+Lens-8588,29
+
+2015,38
+Paris Saint Germain-9847,96
+Lyon-9748,65
+Monaco-9829,65	
+Nice-9831,63
+Lille-8639,60
+Saint Etienne-9853,58	
+Caen-7819,54
+Rennes-9851,52	
+Angers-8121,50
+SC Bastia-7794,50	
+Bordeaux-9827,50
+Montpellier-10249,49	
+Marseille-8592,48
+Nantes-9830,48
+Lorient-8689,46
+Guingamp-9747,44
+Toulouse-9941,40
+Reims-9837,39
+GFC Ajaccio-6391,37
+Troyes-10242,18

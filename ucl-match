@@ -1,0 +1,12 @@
+cd "$(dirname "$0")"
+
+# The first simple model 
+python Nai.py $*
+
+# Second model with modeling domination by shot on-target
+python Shot.py $*
+
+# Second model with modeling domination by ball possesion
+python Poss.py $*
+
+# Each model will display the predicted results of matches, with an accurcacy at the end

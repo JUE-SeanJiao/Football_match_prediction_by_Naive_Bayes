@@ -1,0 +1,175 @@
+2008,38
+Manchester United-10260,90
+Liverpool-8650,86
+Chelsea-8455,83
+Arsenal-9825,72
+Everton-8668,63
+Aston Villa-10252,62
+Fulham-9879,53
+Tottenham Hotspur-8586,51
+West Ham United-8654,51
+Manchester City-8456,50
+Wigan Athletic-8528,45
+Stoke City-10194,45
+Bolton Wanderers-8559,41
+Portsmouth-8462,41
+Blackburn Rovers-8655,41
+Sunderland-8472,36
+Hull City-8667,35
+Newcastle United-10261,34
+Middlesbrough-8549,32
+West Bromwich Albion-8659,32
+
+2009,38
+Chelsea-8455,86
+Manchester United-10260,85
+Arsenal-9825,75
+Tottenham Hotspur-8586,70
+Manchester City-8456,67
+Aston Villa-10252,64
+Liverpool-8650,63
+Everton-8668,61
+Birmingham City-8658,50
+Blackburn Rovers-8655,50
+Stoke City-10194,47
+Fulham-9879,46
+Sunderland-8472,44
+Bolton Wanderers-8559,39
+Wolverhampton Wanderers-8602,38
+Wigan Athletic-8528,36
+West Ham United-8654,35
+Burnley-8191,30
+Hull City-8667,30
+Portsmouth-8462,19
+
+2010,38
+Manchester United-10260,80
+Chelsea-8455,71
+Manchester City-8456,71
+Arsenal-9825,68
+Tottenham Hotspur-8586,62
+Liverpool-8650,58
+Everton-8668,54
+Fulham-9879,49
+Aston Villa-10252,48
+Sunderland-8472,47
+West Bromwich Albion-8659,47
+Newcastle United-10261,46
+Stoke City-10194,46
+Bolton Wanderers-8559,46
+Blackburn Rovers-8655,43
+Wigan Athletic-8528,42
+Wolverhampton Wanderers-8602,40
+Birmingham City-8658,39
+Blackpool-8483,39
+West Ham United-8654,33
+
+2011,38
+Manchester City-8456,89
+Manchester United-10260,89
+Arsenal-9825,70
+Tottenham Hotspur-8586,69
+Newcastle United-10261,65
+Chelsea-8455,64
+Everton-8668,56
+Liverpool-8650,52
+Fulham-9879,52
+West Bromwich Albion-8659,47
+Swansea City-10003,47
+Norwich City-9850,47
+Sunderland-8472,45
+Stoke City-10194,45
+Wigan Athletic-8528,43
+Aston Villa-10252,38
+Queens Park Rangers-10172,37
+Bolton Wanderers-8559,36
+Blackburn Rovers-8655,31
+Wolverhampton Wanderers-8602,25
+
+2012,38
+Manchester United-10260,89
+Manchester City-8456,78
+Chelsea-8455,75
+Arsenal-9825,73
+Tottenham Hotspur-8586,72
+Everton-8668,63
+Liverpool-8650,61
+West Bromwich Albion-8659,49
+Swansea City-10003,46
+West Ham United-8654,46
+Norwich City-9850,44
+Fulham-9879,43
+Stoke City-10194,42
+Southampton-8466,41
+Aston Villa-10252,41
+Newcastle United-10261,41
+Sunderland-8472,39
+Wigan Athletic-8528,36
+Reading-9798,28
+Queens Park Rangers-10172,25
+
+2013,38
+Manchester City-8456,86
+Liverpool-8650,84
+Chelsea-8455,82
+Arsenal-9825,79
+Everton-8668,72
+Tottenham Hotspur-8586,69
+Manchester United-10260,64
+Southampton-8466,56
+Stoke City-10194,50
+Newcastle United-10261,49
+Crystal Palace-9826,45
+Swansea City-10003,42
+West Ham United-8654,40
+Sunderland-8472,38
+Aston Villa-10252,38
+Hull City-8667,37
+West Bromwich Albion-8659,36
+Norwich City-9850,33
+Fulham-9879,32
+Cardiff City-8344,30
+
+2014,38
+Chelsea-8455,87
+Manchester City-8456,79
+Arsenal-9825,75
+Manchester United-10260,70
+Tottenham Hotspur-8586,64
+Liverpool-8650,62
+Southampton-8466,60
+Swansea City-10003,56
+Stoke City-10194,48
+Crystal Palace-9826,47
+Everton-8668,47
+West Ham United-8654,47
+West Bromwich Albion-8659,44
+Leicester City-8197,41
+Newcastle United-10261,39
+Sunderland-8472,38
+Aston Villa-10252,38
+Hull City-8667,35
+Burnley-8191,33
+Queens Park Rangers-10172,30
+
+2015,38
+Leicester City-8197,81
+Arsenal-9825,71
+Tottenham Hotspur-8586,70
+Manchester City-8456,66
+Manchester United-10260,66
+Southampton-8466,63
+West Ham United-8654,62
+Liverpool-8650,60
+Stoke City-10194,51
+Chelsea-8455,50
+Everton-8668,47
+Swansea City-10003,47
+Watford-9817,45
+West Bromwich Albion-8659,43
+Crystal Palace-9826,42
+Bournemouth-8678,42
+Sunderland-8472,39
+Newcastle United-10261,37
+Norwich City-9850,34
+Aston Villa-10252,17

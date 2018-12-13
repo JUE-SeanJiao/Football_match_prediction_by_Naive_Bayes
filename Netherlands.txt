@@ -1,0 +1,159 @@
+2008,34
+AZ Alkmaar-10229,80
+Twente-8611,69
+Ajax-8593,68
+PSV Eindhoven-8640,65
+SC Heerenveen-10228,60
+FC Groningen-8674,56
+Feyenoord-10235,45
+NAC Breda-9761,45
+FC Utrecht-9908,44
+Vitesse-8277,43
+NEC Nijmegen-8464,42
+Willem II-8525,37
+Sparta Rotterdam-8614,35
+ADO Den Haag-10217,32
+Heracles-9791,32
+Roda-9803,30
+De Graafschap-8526,30
+FC Volendam-6601,29
+
+2009,34
+Twente-8611,86
+Ajax-8593,85
+PSV Eindhoven-8640,78
+Feyenoord-10235,63
+AZ Alkmaar-10229,62
+Heracles-9791,56
+FC Utrecht-9908,53
+FC Groningen-8674,49
+Roda-9803,47
+NAC Breda-9761,46
+SC Heerenveen-10228,37
+VVV Venlo-9839,35
+NEC Nijmegen-8464,33
+Vitesse-8277,32
+ADO Den Haag-10217,30
+Sparta Rotterdam-8614,26
+Willem II-8525,23
+RKC Waalwijk-10219,15
+
+2010,34
+Ajax-8593,73
+Twente-8611,71
+PSV Eindhoven-8640,69
+AZ Alkmaar-10229,59
+FC Groningen-8674,57
+Roda-9803,55
+ADO Den Haag-10217,54
+Heracles-9791,49
+FC Utrecht-9908,47
+Feyenoord-10235,44
+NEC Nijmegen-8464,43
+SC Heerenveen-10228,41
+NAC Breda-9761,41
+De Graafschap-8526,38
+Vitesse-8277,35
+Excelsior-10218,35
+VVV Venlo-9839,21
+Willem II-8525,15
+
+2011,34
+Ajax-8593,76
+Feyenoord-10235,70
+PSV Eindhoven-8640,69
+AZ Alkmaar-10229,65
+SC Heerenveen-10228,64
+Twente-8611,60
+Vitesse-8277,53
+NEC Nijmegen-8464,45
+RKC Waalwijk-10219,45
+Roda-9803,44
+FC Utrecht-9908,43
+Heracles-9791,40
+NAC Breda-9761,38
+FC Groningen-8674,37
+ADO Den Haag-10217,32
+VVV Venlo-9839,31
+De Graafschap-8526,24
+Excelsior-10218,19
+
+2012,34
+Ajax-8593,76
+PSV Eindhoven-8640,69
+Feyenoord-10235,69
+Vitesse-8277,64
+FC Utrecht-9908,63
+Twente-8611,62
+FC Groningen-8674,43
+SC Heerenveen-10228,42
+ADO Den Haag-10217,40
+AZ Alkmaar-10229,39
+PEC Zwolle-6413,39
+Heracles-9791,38
+NAC Breda-9761,38
+RKC Waalwijk-10219,37
+NEC Nijmegen-8464,37
+Roda-9803,33
+VVV Venlo-9839,28
+Willem II-8525,23
+
+2013,34
+Ajax-8593,71
+Feyenoord-10235,67
+Twente-8611,63
+PSV Eindhoven-8640,59
+SC Heerenveen-10228,57
+Vitesse-8277,55
+FC Groningen-8674,51
+AZ Alkmaar-10229,47
+ADO Den Haag-10217,43
+FC Utrecht-9908,41
+PEC Zwolle-6413,40
+Cambuur-7788,39
+Go Ahead Eagles-6433,38
+Heracles-9791,37
+NAC Breda-9761,35
+RKC Waalwijk-10219,32
+NEC Nijmegen-8464,30
+Roda-9803,29
+
+2014,34
+PSV Eindhoven-8640,88
+Ajax-8593,71
+AZ Alkmaar-10229,62
+Feyenoord-10235,59
+Vitesse-8277,58
+PEC Zwolle-6413,53
+SC Heerenveen-10228,50
+FC Groningen-8674,46
+Willem II-8525,46
+Twente-8611,43
+FC Utrecht-9908,41
+Cambuur-7788,41
+ADO Den Haag-10217,37
+Heracles-9791,37
+Excelsior-10218,32
+NAC Breda-9761,28
+Go Ahead Eagles-6433,27
+FC Dordrecht-6631,20
+
+2015,34
+PSV Eindhoven-8640,84
+Ajax-8593,82
+Feyenoord-10235,63
+AZ Alkmaar-10229,59
+FC Utrecht-9908,53
+Heracles-9791,51
+FC Groningen-8674,50
+PEC Zwolle-6413,48
+Vitesse-8277,46
+NEC Nijmegen-8464,46
+ADO Den Haag-10217,43
+SC Heerenveen-10228,42
+Twente-8611,40
+Roda-9803,34
+Excelsior-10218,30
+Willem II-8525,2
+De Graafschap-8526,23
+Cambuur-7788,18
